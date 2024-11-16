@@ -111,7 +111,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/soumojit-
 
 ## 🙏 Thank You
 
-Thank you for using **Klimate**! Special thanks to the teams behind **Vite**, **React**, **TypeScript**, **Tailwind CSS**, **ShadCN UI**, and **OpenWeather API** for providing the essential tools that make **Klimate** possible.
+Thank you for using **Klimate**!! Special thanks to the teams behind **Vite**, **React**, **TypeScript**, **Tailwind CSS**, **ShadCN UI**, and **OpenWeather API** for providing the essential tools that make **Klimate** possible.
 
 ## ❤️ Special Thanks
 
